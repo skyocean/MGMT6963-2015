@@ -7,8 +7,13 @@ role: "Student"
 name: "Jiamin Xiao"
 email: "xiaoj5@rpi.edu"
 description: "Optimistic and easygoing"
+<<<<<<< HEAD
 hobbies: "Taking Roller Coaster." 
 picture: "/img/Jiamin_Xiao.jpg" 
+=======
+hobbies: "Taking Roller Coaster" 
+picture: "/img/JiaminXiao.jpg" 
+>>>>>>> 8a3d9ea51f4147a39a1d33e2ec3137de73c7de12
 github_username:  "xjm1021"
 twitter_username: ""
 linkedin_username: ""
